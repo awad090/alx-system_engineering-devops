@@ -1,2 +1,10 @@
 Display current directory contents.
-task5
+
+
+
+Long format
+
+with user and group IDs displayed numerically
+
+And hidden files (starting with .).
+task 5 5. I love numbers
