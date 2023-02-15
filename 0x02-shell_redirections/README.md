@@ -1,2 +1,1 @@
-#!/bin/bash
-Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+0x02 shell IO redirections and filters readme file
